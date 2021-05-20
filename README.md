@@ -1,4 +1,4 @@
-# rn-dropdown-picker
+# rn-simple-dropdown-picker
 
 ##### A simple React Native Dropdown Picker with React-Native's core components.
 
@@ -14,13 +14,13 @@
 
 ### Installation
 
-`npm install --save react-native-material-dropdown`
+`npm install --save rn-simple-dropdown-picker`
 
 ### Usage
 
 ```javascript
 import React, { Component } from 'react';
-import { Dropdown } from 'rn-dropdown-picker';
+import { Dropdown } from 'rn-simple-dropdown-picker';
 
 class Example extends Component {
   render() {
